@@ -16,6 +16,7 @@ def index(request):
         <body>
             <h1>Hello from Vercel!</h1>
             <p>The current time is { now }.</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=RDQMgEzdN5RuCXE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
         </body>
     </html>
     '''
